@@ -1,0 +1,9 @@
+# 切换时生成的配置备份
+*.switch-bak
+
+# 绝不要提交任何含密钥/令牌的真实配置(防止用户误拷进来)
+auth.json
+config.toml
+cc-switch.db
+*.db
+settings.json
